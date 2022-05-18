@@ -22,7 +22,7 @@ queryset是Queryset对象，可以执行filter方法
 ModelB.objects.filter(id__in=RawSQL(
     'SELECT unnest(a.pk_values) FROM app_modela a WHERE a.id = %s',
     [index_id]
-))
+)) #b
 
 
 ModelB.objects.extra(

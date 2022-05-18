@@ -1,3 +1,14 @@
 递归查询[PostgreSQL: Documentation: 14: 7.8. WITH Queries (Common Table Expressions)](https://www.postgresql.org/docs/current/queries-with.html)
 
 [MYSQL where in (*,*,*,*,*,...................) 大量查询优化 - 晨曦时丶梦见兮 - 博客园 (cnblogs.com)](https://www.cnblogs.com/zyjfire/p/12924766.html)
+
+[SQL 子查询怎么优化？写的很深！ - 云+社区 - 腾讯云 (tencent.com)](https://cloud.tencent.com/developer/article/1815138)
+
+[深入理解MySql子查询IN的执行和优化 - wuxiwei - 博客园 (cnblogs.com)](https://www.cnblogs.com/wxw16/p/6105624.html)
+
+[使用EXPLAIN (postgres.cn)](http://www.postgres.cn/docs/9.5/using-explain.html)
+
+[(24条消息) PostgreSQL · 最佳实践 · EXPLAIN 使用浅析（优化器，查询计划）_秦时明月之君临天下的博客-CSDN博客](https://blog.csdn.net/weixin_41287260/article/details/124394206)
+
+[(24条消息) redis存储树结构数据_thanksm1的博客-CSDN博客_redis存储树结构](https://blog.csdn.net/thanksm1/article/details/101972919)
+
