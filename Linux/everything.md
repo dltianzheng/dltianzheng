@@ -43,4 +43,10 @@ shopt -s extquote 开启
 ```
 
 
+```
+tar -c/-x 压缩/解压
+-j/-z zip/gzip
+-v 展示压缩/解压条目
+-f 路径 解压压缩都需要
+```
 
